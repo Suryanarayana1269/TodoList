@@ -22,7 +22,7 @@ This is a simple and elegant TODO List web application with a **Nature Green The
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/TODO-List.git
+   git clone https://github.com/Suryanarayana1269/TODO-List.git
    ```
 2. Open `index.html` in a browser.  
 3. Start adding tasks and stay organized!  
